@@ -7,6 +7,7 @@ using std::string;
 
 void waypointTest();
 int main() {
+	cout << "How does GitHub work again?" << endl;
 	waypointTest();
 	return 1;
 }
